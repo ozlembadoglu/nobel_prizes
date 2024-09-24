@@ -13,7 +13,6 @@ In this project, I performed an exploratory data analysis on the Nobel Prize dat
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Dynamic Graphs](#dynamic-graphs)
 - [Insights](#insights)
-- [How to Run](#how-to-run)
 - [Conclusion](#conclusion)
 
 ## Libraries Used
@@ -51,4 +50,6 @@ Some of the key insights from the analysis include:
 
 - [Include some specific findings from your analysis, e.g., which country has the most Nobel Prizes, trends in categories, or gender representation.]
 
+## Conclusion
 
+This analysis provides a comprehensive overview of the Nobel Prize dataset, revealing trends and patterns in the awarding of Nobel Prizes over the years. The interactive visualizations allow for deeper exploration and insights into the data.
